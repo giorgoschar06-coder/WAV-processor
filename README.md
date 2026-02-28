@@ -217,10 +217,13 @@ The program is modular, using specific functions for readability and maintenance
 | | `DataChunk` | Locates the start of the audio data stream. |
 | **Features** | `info`, `rate`, `channel` | Implements core program logic based on user input. |
 
-
 ---
 
 ## 📚 References
+
+* **This project was set as one of the asignments of the first semester in the class of progintro in the University of Athens.** 
+
+---
 
 **1)** Description of WAV files:https://docs.fileformat.com/el/audio/wav/
 
